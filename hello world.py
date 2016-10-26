@@ -1,4 +1,4 @@
-#Mullah's Game
+#My's Game
 
 print("welcome!")
 g = input("guess the number=")
